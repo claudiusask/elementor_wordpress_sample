@@ -1,0 +1,97 @@
+body {
+    padding-top: 50px;
+  }
+  .starter-template {
+    padding: 40px 15px;
+    text-align: left;
+  }
+
+  table {
+      background-color: bisque;
+      border: solid 1px black;
+  }
+  th {
+    background-color: rgb(252, 187, 157);
+    text-align: center;
+    width: 100px;
+    height: 5em;
+    border: solid 1px black;
+  }
+  td {
+    text-align: center;
+    border: solid 1px black;
+    background-color: burlywood !important;
+  }
+  div.user-acc{
+    border:2px solid black;
+    margin-top: 1%;
+    font-weight: bold;
+    text-align: center;
+    float: right;
+    width: 50px;
+  }
+  /* css for driver-info start */
+  table#table-driver-info th{
+    width: 150px;
+  }
+  /* css for driver-info ends */
+  /* ---------------------------- */
+  /* Customer-form css starts */
+  div.customer-edit-form-container {
+    border: solid 2px black;
+    width: 40em;
+    height: 30em;
+  }
+  div.form-inputs {
+    margin: 1em;
+    width: 30em;
+  }
+  .long-input {
+    width: 30em;
+  }
+  p.label-box {
+    margin: 1em;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  .label-box-small {
+    margin: 1em;
+    font-weight: bold;
+  }
+  /* Customer form css rnds */
+  /* --------------------------- */
+  /* vehicle.php css starts */
+  div.valign {
+    margin-top: 3em;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+  }
+  /* vehicle.php css ends */
+  /* -------------------- */
+  /* driver-edit page css start */
+  div.field-group{
+    display: inline-block;
+  }
+  div.form-wrapper{
+    padding: 1em;
+    background-color: rgb(214, 244, 246);
+  }
+  div#edit-driver-box {
+    margin: 0 15em 0 15em;
+    border: 1px solid black;
+  }
+  .editer-h3 {
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  .submit-button {
+    padding-top: 1em;
+    padding-left:5em;
+  }
+  .home-button_d{
+    padding-top: 2px;
+  }
+  /* driver-edit page css end */
+  /* ------------------------ */
+ 
