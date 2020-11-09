@@ -2,7 +2,7 @@
 include 'header.php'; ?>
 <?php
     if(empty($_SESSION['login'])){
-        header("Location: http://localhost:8100/parking-website/login.php");
+        header("Location: http://localhost:8100/parking/login.php");
         exit();
     }
     ob_end_flush();

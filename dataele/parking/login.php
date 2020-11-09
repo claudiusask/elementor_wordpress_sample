@@ -64,7 +64,7 @@
         //echo "Data Matched";
         //exit();
         $_SESSION['login']['current_user'] = $user['name'];
-        header("Location: http://localhost:8100/parking-website/dashboard.php");
+        header("Location: http://localhost:8100/parking/dashboard.php");
         exit();
       }
       else {

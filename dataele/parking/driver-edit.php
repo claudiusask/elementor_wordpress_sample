@@ -2,7 +2,7 @@
 include 'header.php'; ?>
 <?php
     if(empty($_SESSION['login'])){
-        header("Location: http://localhost:8100/parking-website/login.php");
+        header("Location: http://localhost:8100/parking/login.php");
         exit();
     }
     ob_end_flush();
@@ -35,7 +35,7 @@ include 'header.php'; ?>
     $result = $conn->query($sql);    
     if($result == True){
         echo "Record updated successfully";
-        // header("Location: http://localhost:8100/parking-website/driver.php");
+        // header("Location: http://localhost:8100/parking/driver.php");
         // exit();
     }
     else{

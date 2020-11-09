@@ -44,7 +44,7 @@
   // ------------------------------------------------------
   // if the admin is logged in the below code will execute.
   // ------------------------------------------------------
-  if($_SERVER["REQUEST_URI"] != "/parking-website/"):
+  if($_SERVER["REQUEST_URI"] != "/parking/"):
 ?>
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
