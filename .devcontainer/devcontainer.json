@@ -28,7 +28,10 @@
 		"felixfbecker.php-debug",
 		"ecmel.vscode-html-css",
 		"zignd.html-css-class-completion",
-		"neilbrayfield.php-docblocker"
+		"neilbrayfield.php-docblocker",
+		"coenraads.bracket-pair-colorizer",
+		"eamodio.gitlens",
+		"formulahendry.auto-rename-tag"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
