@@ -84,11 +84,11 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li class=""><a href="">Tickets</a></li>
+            <!-- <li class=""><a href="">Tickets</a></li>
             <li class=""><a href="driver-info.php">Membership Cards</a></li>
             <li class=""><a href="vehicle.php">Vehicles</a></li>
-            <li class=""><a href="dirver.php">Drivers</a></li>
-            <li class=""><a href="logout.php">Log Out</a></li>
+            <li class=""><a href="dirver.php">Drivers</a></li> -->
+            <li class=""><a href="login.php">Log In</a></li>
           </ul>
         </div>
       </div>
